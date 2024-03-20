@@ -6,6 +6,14 @@
     <description>Recent content in Tags on Alex0rd&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 20 Mar 2024 00:30:31 +0800</lastBuildDate>
     <atom:link href="https://alex0rd.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://alex0rd.github.io/tags/test/</link>
+      <pubDate>Wed, 20 Mar 2024 00:30:31 +0800</pubDate>
+      <guid>https://alex0rd.github.io/tags/test/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
