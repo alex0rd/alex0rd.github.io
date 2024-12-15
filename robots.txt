@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alex0rd.github.io/sitemap.xml
